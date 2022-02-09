@@ -8,3 +8,5 @@ My name is Rens van Gemert and I'm currently learning software engineering at Fo
 
 ### Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RensvGemert&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RensvGemert&hide=javascript,css,scss,html&theme=tokyonight)
