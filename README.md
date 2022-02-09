@@ -1,7 +1,6 @@
 <img width="800" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"/>
 
-### Hi there my name is Rens van Gemert 👋
-<hr/>
+## Hi there my name is Rens van Gemert 👋
 
 ### GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RensvGemert&theme=radical)
