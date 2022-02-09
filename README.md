@@ -7,4 +7,4 @@ My name is Rens van Gemert and I'm currently learning software engineering at Fo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RensvGemert&theme=radical)
 
 ### Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RensvGemert&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RensvGemert&hide=css,scss&theme=tokyonight)
