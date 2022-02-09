@@ -5,5 +5,4 @@
 ### GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RensvGemert&theme=radical)
 
-### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RensvGemert&theme=tokyonight)
