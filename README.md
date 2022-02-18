@@ -1,4 +1,6 @@
-<img width="800" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"/>
+<p align="center">
+<img align="center" src="api_giphy_header.gif" width="100%" alt="API Giphy logo"/>
+</p>
 
 ## Hello 👋
 My name is Rens van Gemert and I'm currently learning software engineering at Fontys Hogeschool Eindhoven.
