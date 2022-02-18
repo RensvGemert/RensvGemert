@@ -1,4 +1,4 @@
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif" width="954" height="523">
+<img src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif">
 
 ## Hello 👋
 My name is Rens van Gemert and I'm currently learning software engineering at Fontys Hogeschool Eindhoven.
